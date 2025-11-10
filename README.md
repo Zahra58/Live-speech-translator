@@ -1,6 +1,6 @@
 #  Speech Recognition & Translator
 
-![Live Speech Recognition & Translation Banner]()
+![Live Speech Recognition & Translation Banner](image/icon-192.png)
 A Progressive Web App for real-time speech-to-text with instant translation to 20+ languages.
 
 ##  [**Try Live Demo →**](https://live-speech-translation.netlify.app/)
